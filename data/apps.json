@@ -531,8 +531,8 @@
             ]
         },
          {
-            "name": "Musik",
-            "order": 26,
+            "name": "Music",
+            "order": 27,
             "mainstream_apps": [
                 { "id": "spotify", "name": "Spotify" },
                 { "id": "apple_music", "name": "Apple Music" },
@@ -545,7 +545,7 @@
         },
         {
             "name": "Office Suite",
-            "order": 27,
+            "order": 28,
             "mainstream_apps": [
                 { "id": "Microsoft_365", "name": "Microsoft 365" },
                 { "id": "Google_Workspace", "name": "Google Workspace" },
@@ -567,7 +567,7 @@
         },
         {
             "name": "Domain Hosting",
-            "order": 28,
+            "order": 29,
             "mainstream_apps": [
                 { "id": "godaddy", "name": "GoDaddy" }
             ],
