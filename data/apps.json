@@ -530,6 +530,19 @@
                 { "id": "libretube", "name": "LibreTube" }
             ]
         },
+         {
+            "name": "Musik",
+            "order": 26,
+            "mainstream_apps": [
+                { "id": "spotify", "name": "Spotify" },
+                { "id": "apple_music", "name": "Apple Music" },
+                { "id": "deezer", "name": "Deezer" },
+                { "id": "amazon_music", "name": "Amazon Music" }
+            ],
+            "private_alternatives": [
+                { "id": "navidrome", "name": "Navidrome" }
+            ]
+        },
         {
             "name": "Office Suite",
             "order": 27,
